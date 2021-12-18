@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jonathan Harvey, aka @collectivenectar
-- 👀 I’m interested in open source and decentralizing projects
-- 🌱 I’m currently building an iOS app in Godot, learning chia/lisp too for my next project
+- 👀 I’m interested in open source and decentralizing software (not just blockchains, IPFS, libp2p, BT Mesh, etc)
+- 🌱 I’m currently building an iOS app in Godot, a side quest with learning HTML/CSS/JS, and slowly learning chia/lisp too for my next project
 - 💞️ I’m looking to collaborate on apps, games, anything that is non-violent and just helps humans to be more awesome to each other in general.
 - I'm also a digital artist, musician and songwriter. See my stuff on artstation(https://www.artstation.com/jonathanharveyart) and soundcloud (@collectivenectar).
-- 📫 How to reach me? Best way is either here on github or email jonathanharvey22@gmail.com, linked in at linkedin.com/in/jonathanharveydev
+- 📫 How to reach me? Best way is either here on github or email jonathanharvey22@gmail.com, linked in at linkedin.com/in/jonathanharveydev, twitter @_jonharvey
 
 <!---
 collectivenectar/collectivenectar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
