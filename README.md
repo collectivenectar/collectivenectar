@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Harvey</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on [chiaPVP](https://github.com/collectivenectar/chia-study/tree/main/chiaPVP)
+- 🔭 I’m currently working on [soundslip](https://github.com/collectivenectar/soundslip)
 
 - 🌱 I’m currently learning **React, Node.js, chialisp**
 
