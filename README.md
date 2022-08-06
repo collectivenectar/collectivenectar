@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [soundslip](https://github.com/collectivenectar/soundslip)
 
+- 🌱 My most recent project [LeonStreamScripts](https://github.com/collectivenectar/streamScripts)
+
 - 🌱 I’m currently learning **React, Node.js, chialisp**
 
 - 👯 I’m looking to collaborate on [anything this related](https://github.com/Chia-Network)
