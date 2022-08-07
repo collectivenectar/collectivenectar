@@ -21,6 +21,8 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1V0UpVGax6hpxckzjrDBlpS5uY8yFZqNdllnaEkIeGL8/edit?usp=sharing](https://docs.google.com/document/d/1V0UpVGax6hpxckzjrDBlpS5uY8yFZqNdllnaEkIeGL8/edit?usp=sharing)
 
+![codewars badge](https://www.codewars.com/users/collectivenectar/badges/large)
+
 - ⚡ Fun fact **Emeralds are just green-colored beryl.**
 
 <h3 align="left">Connect with me:</h3>
