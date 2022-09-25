@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jonathanharvey22@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1V0UpVGax6hpxckzjrDBlpS5uY8yFZqNdllnaEkIeGL8/edit?usp=sharing](https://docs.google.com/document/d/1V0UpVGax6hpxckzjrDBlpS5uY8yFZqNdllnaEkIeGL8/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1tXoZLPEygccsrt-EP4pkx9oPGTCFUNvHJI2ZSELQAHk/edit?usp=sharing](https://docs.google.com/document/d/1tXoZLPEygccsrt-EP4pkx9oPGTCFUNvHJI2ZSELQAHk/edit?usp=sharing)
 
 ![codewars badge](https://www.codewars.com/users/collectivenectar/badges/large)
 
