@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [anything this related](https://github.com/Chia-Network)
 
-- 🤝 I’m looking for help with [my Godot-based mobile app](https://github.com/collectivenectar/therealrealoracle)
-
 - 👨‍💻 All of my projects are available at [https://jonathanharvey.netlify.app](https://jonathanharvey.netlify.app)
 
 - 📝 I regularly tweet at [https://twitter.com/_jonharvey](https://twitter.com/_jonharvey)
@@ -19,7 +17,7 @@
 
 - 📫 How to reach me **jonathanharvey22@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tXoZLPEygccsrt-EP4pkx9oPGTCFUNvHJI2ZSELQAHk/edit?usp=sharing](https://docs.google.com/document/d/1tXoZLPEygccsrt-EP4pkx9oPGTCFUNvHJI2ZSELQAHk/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1GLpeMm_fpWrcEIpPF71FxI6qSGm1IvqY2jTwYMWTWsc/edit?usp=sharing](https://docs.google.com/document/d/1GLpeMm_fpWrcEIpPF71FxI6qSGm1IvqY2jTwYMWTWsc/edit?usp=sharing)
 
 ![codewars badge](https://www.codewars.com/users/collectivenectar/badges/large)
 
