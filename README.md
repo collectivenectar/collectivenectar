@@ -5,7 +5,7 @@
 
 - 🌱 My most recent project [LeonStreamScripts](https://github.com/collectivenectar/streamScripts)
 
-- 🌱 I’m currently learning **React, Node.js, chialisp**
+- 🌱 I’m currently learning **Next.js, greenweb.js, web3.js, chialisp**
 
 - 👯 I’m looking to collaborate on [anything this related](https://github.com/Chia-Network)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly tweet at [https://twitter.com/_jonharvey](https://twitter.com/_jonharvey)
 
-- 💬 Ask me about **design, music, UI**
+- 💬 Ask me about **design, music, UI, web3!**
 
 - 📫 How to reach me **jonathanharvey22@gmail.com**
 
