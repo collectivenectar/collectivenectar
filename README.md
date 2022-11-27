@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonathan Harvey</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on [soundslip](https://github.com/collectivenectar/soundslip)
+- 🔭 I’m currently working on [Soundslip Rebuild on NextJS](https://github.com/collectivenectar/nextjs-soundslip)
 
-- 🌱 My most recent project [LeonStreamScripts](https://github.com/collectivenectar/streamScripts)
+- 🌱 My most recent project [Soundslip](https://github.com/collectivenectar/soundslip)
 
-- 🌱 I’m currently learning **Next.js, greenweb.js, web3.js, chialisp**
+- 🌱 I’m currently learning **Next.js, graphql, postgresql, greenweb.js, web3.js, chialisp**
 
 - 👯 I’m looking to collaborate on [anything this related](https://github.com/Chia-Network)
 
