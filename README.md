@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **design, music, UI, web3!**
 
-- 📫 How to reach me **jonathanharvey22@gmail.com**
+- 📫 How to reach me **joncodes@proton.me**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1z_j3T8xzwAEdqcpYqEmTuCjFrSz8QeyW/view?usp=drive_link)
 
