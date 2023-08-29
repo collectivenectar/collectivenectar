@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jonathanharvey22@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GLpeMm_fpWrcEIpPF71FxI6qSGm1IvqY2jTwYMWTWsc/edit?usp=sharing](https://docs.google.com/document/d/1GLpeMm_fpWrcEIpPF71FxI6qSGm1IvqY2jTwYMWTWsc/edit?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1z_j3T8xzwAEdqcpYqEmTuCjFrSz8QeyW/view?usp=drive_link)
 
 ![codewars badge](https://www.codewars.com/users/collectivenectar/badges/large)
 
