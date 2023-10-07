@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Harvey</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on [Artemis]([https://github.com/collectivenectar/](https://github.com/jonathananddaryll/artemis-crm)
+- 🔭 I’m currently working on [Artemis](https://github.com/jonathananddaryll/artemis-crm)
 
 - 🌱 My previous project [Soundslip](https://github.com/collectivenectar/soundslip)
 
