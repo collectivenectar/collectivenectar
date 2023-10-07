@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Jonathan Harvey</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on [Soundslip Rebuild on NextJS](https://github.com/collectivenectar/nextjs-soundslip)
+- 🔭 I’m currently working on [Artemis]([https://github.com/collectivenectar/](https://github.com/jonathananddaryll/artemis-crm)
 
-- 🌱 My most recent project [Soundslip](https://github.com/collectivenectar/soundslip)
+- 🌱 My previous project [Soundslip](https://github.com/collectivenectar/soundslip)
 
-- 🌱 I’m currently learning **Next.js, graphql, postgresql, greenweb.js, web3.js, chialisp**
+- 🌱 I’m currently learning **Postgresql, D3.js, chialisp**
 
-- 👯 I’m looking to collaborate on [anything this related](https://github.com/Chia-Network)
+- 👯 I’m looking to collaborate on anything [Chia Network related](https://github.com/Chia-Network)
 
-- 👨‍💻 All of my projects are available at [https://jonathanharvey.netlify.app](https://jonathanharvey.netlify.app)
+- 👨‍💻 All of my public projects are accessible via [my portfolio](https://jonathanharvey.netlify.app)
 
-- 📝 I regularly tweet at [https://twitter.com/_jonharvey](https://twitter.com/_jonharvey)
+- 📝 I regularly tweet at [_jonharvey](https://twitter.com/_jonharvey)
 
 - 💬 Ask me about **design, music, UI, web3!**
 
 - 📫 How to reach me **joncodes@proton.me**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1z_j3T8xzwAEdqcpYqEmTuCjFrSz8QeyW/view?usp=drive_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/14R992oChiJ9NAD-dqAvcVe8klHVL0gnX/view?usp=drive_link)
 
 ![codewars badge](https://www.codewars.com/users/collectivenectar/badges/large)
 
