@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **joncodes@proton.me**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/14R992oChiJ9NAD-dqAvcVe8klHVL0gnX/view?usp=drive_link)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1eDLc3Cijpr5nayA4IvgmJKlZ-ujiNWN9/edit?usp=sharing&ouid=107955105359192132591&rtpof=true&sd=true)
 
 ![codewars badge](https://www.codewars.com/users/collectivenectar/badges/large)
 
