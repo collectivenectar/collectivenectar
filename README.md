@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on anything [Chia Network related](https://github.com/Chia-Network)
 
-- 👨‍💻 All of my public projects are accessible via [my portfolio](https://jonathanharvey.netlify.app)
+- 👨‍💻 All of my public projects are accessible via [my portfolio](https://jonharvey.tech)
 
 - 📝 I regularly tweet at [_jonharvey](https://twitter.com/_jonharvey)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **joncodes@proton.me**
 
-- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1eDLc3Cijpr5nayA4IvgmJKlZ-ujiNWN9/edit?usp=sharing&ouid=107955105359192132591&rtpof=true&sd=true)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1lieEZmS4T2mnEeIo-ePhjugWQpuHUT4C/view?usp=sharing)
 
 ![codewars badge](https://www.codewars.com/users/collectivenectar/badges/large)
 
