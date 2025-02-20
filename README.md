@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jonathan Harvey</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on [Artemis](https://github.com/jonathananddaryll/artemis-crm)
+- 🔭 I’m currently working at Unplotted
 
 - 🌱 My previous project [Soundslip](https://github.com/collectivenectar/soundslip)
 
-- 🌱 I’m currently learning **Postgresql, D3.js, chialisp**
+- 🌱 I’m currently learning **LLM Tooling, Distributed Systems, Analytics and Data Visualization**
 
 - 👯 I’m looking to collaborate on anything [Chia Network related](https://github.com/Chia-Network)
 
-- 👨‍💻 All of my public projects are accessible via [my portfolio](https://jonharvey.tech)
+- 👨‍💻 My personal site at [my site](https://jonharvey.codes)
 
 - 📝 I regularly tweet at [_jonharvey](https://twitter.com/_jonharvey)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **joncodes@proton.me**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1lieEZmS4T2mnEeIo-ePhjugWQpuHUT4C/view?usp=sharing)
+- 📄 Know about my experiences [resume]([https://drive.google.com/file/d/1lieEZmS4T2mnEeIo-ePhjugWQpuHUT4C/view?usp=sharing](https://drive.google.com/file/d/1tGkgDiyQRZTY5LV4egw7geXJWxJviJND/view?usp=sharing))
 
 ![codewars badge](https://www.codewars.com/users/collectivenectar/badges/large)
 
